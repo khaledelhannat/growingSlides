@@ -1,5 +1,5 @@
 # Growing Slides
-#### Simple cool slideshow project that allows you to extend the slides with a cool animations.
+#### Simple cool slideshow. When you click on one of the slides, it expands and collapses the other slides with a lovely motion.
 
 ## Give it a visit from <a href="https://khaledelhannat.github.io/growingSlides/">here</a> :)
 
